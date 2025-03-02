@@ -122,6 +122,9 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+# Secret files (passwords, API keys, etc)
+secrets/
+
 # yarn v2
 .yarn/cache
 .yarn/unplugged
